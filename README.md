@@ -1,4 +1,4 @@
-Arabic Event Management Chatbot
+**Arabic Event Management Chatbot**
 
 Project: Developed an intelligent chatbot that can provide structured event recommendations 
 and extract details about events from Arabic text input. Implemented a command-line interface 
