@@ -1,11 +1,12 @@
 **Arabic Event Management Chatbot**
 
-Project: Developed an intelligent chatbot that can provide structured event recommendations 
-and extract details about events from Arabic text input. Implemented a command-line interface 
-in addition to a Gradio interface for user interaction. Sentiment analysis and feedback gathering 
-were combined to assess and enhance the user experience. 
+- Developed an intelligent chatbot that can provide structured event recommendations and extract details about events from Arabic text input.
 
-Key Contributions: 
+- Implemented a command-line interface in addition to a Gradio interface for user interaction.
+
+- Sentiment analysis and feedback gathering were combined to assess and enhance the user experience. 
+
+*Key Contributions*
 
 • Used cutting-edge NLP algorithms to extract event data (Title, Date, Time, and Location) 
 from unstructured Arabic text.  
