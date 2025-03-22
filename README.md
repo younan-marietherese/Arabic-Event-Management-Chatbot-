@@ -25,16 +25,17 @@ This chatbot simplifies event planning in Arabic by understanding natural langua
 
 
 
-*Results & Evaluation*
+## Results & Evaluation
 - Achieved high accuracy in extracting key event information from various Arabic dialects.
 
 - User sentiment was predominantly positive, with >80% of test users rating the experience as helpful.
 
 - Iterative feedback loop helped refine entity recognition and response relevance.
 
-*Future Work*
-Support for multilingual input (Arabic-English mixed text)
+## **Future Work**
 
-Integration with Google Calendar API for auto-adding events
+- Support for multilingual input (Arabic-English mixed text)
 
-Expansion to include event category detection (e.g., wedding, conference, etc.)
+- Integration with Google Calendar API for auto-adding events
+
+- Expansion to include event category detection (e.g., wedding, conference, etc.)
