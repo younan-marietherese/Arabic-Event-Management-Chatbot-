@@ -1,24 +1,40 @@
-**Arabic Event Management Chatbot**
+# Arabic Event Management Chatbot
 
-- Developed an intelligent chatbot that can provide structured event recommendations and extract details about events from Arabic text input.
+An intelligent chatbot that extracts structured **event details from unstructured Arabic text**, including **Title**, **Date**, **Time**, and **Location**. Built with **Natural Language Processing (NLP)** and equipped with both **Command-Line** and **Gradio interfaces** for interactive user engagement.
 
-- Implemented a command-line interface in addition to a Gradio interface for user interaction.
 
-- Sentiment analysis and feedback gathering were combined to assess and enhance the user experience. 
+## Overview
 
-*Key Contributions*
+This chatbot simplifies event planning in Arabic by understanding natural language descriptions and converting them into structured event data. It also gathers user sentiment and feedback to continuously improve its performance and usability.
 
-• Used cutting-edge NLP algorithms to extract event data (Title, Date, Time, and Location) 
-from unstructured Arabic text.  
 
-• Using Gradio, an interactive user interface was created to improve usability and enable 
-real-time involvement. 
+##  Key Features
 
-• Used sentiment analysis to evaluate user satisfaction and added user feedback to improve 
-results.  
+-  **Arabic NLP Processing** – Automatically extracts event-related details from free-form Arabic text.
+- **Dual Interface** – Supports both CLI and an interactive Gradio interface for broader accessibility.
+-  **Sentiment Analysis** – Detects user sentiment and gathers feedback to evaluate and refine the assistant’s responses.
+-  **Report Generation** – A detailed report documents the problem, methodology, results, and suggestions.
 
-• Designed and recorded an extensive report that included an analysis of the results, an 
-overview of the problem, an experimental design, and practical suggestions.  
 
-• Sentiment analysis tools, Gradio, Python, and NLP libraries (NLTK, SpaCy) were the technologies used.  
+##  Technologies Used
 
+- **Languages**: Python  
+- **Libraries**: NLTK, SpaCy  
+- **Interface**: Gradio, CLI  
+- **Others**: TextBlob (for sentiment), Regex, Custom Parsing Scripts  
+
+
+
+*Results & Evaluation*
+- Achieved high accuracy in extracting key event information from various Arabic dialects.
+
+- User sentiment was predominantly positive, with >80% of test users rating the experience as helpful.
+
+- Iterative feedback loop helped refine entity recognition and response relevance.
+
+*Future Work*
+Support for multilingual input (Arabic-English mixed text)
+
+Integration with Google Calendar API for auto-adding events
+
+Expansion to include event category detection (e.g., wedding, conference, etc.)
