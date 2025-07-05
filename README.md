@@ -1,5 +1,7 @@
 # Arabic Event Management Chatbot
 
+This project is part of the AUB Artificial Intelligence and Data Science Professional Graduate Diploma and earned **Top 2** placement on the leaderboard.
+
 An intelligent chatbot that extracts structured **event details from unstructured Arabic text**, including **Title**, **Date**, **Time**, and **Location**. Built with **Natural Language Processing (NLP)** and equipped with both **Command-Line** and **Gradio interfaces** for interactive user engagement.
 
 
